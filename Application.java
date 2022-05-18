@@ -22,6 +22,14 @@ class Main {
       e.getStackTrace();
     }
   }
+
+ #new feature changes for hsbc302 branch by developer2
+ public static void sampleMethod(int a, int b) throws ArithmeticException{
+        System.out.println("Hello, this is sample method");
+        int c = a/b; //  int c = 4/2 which gets calculated as 2 
+        System.out.println("c:"+c); // c: 2
+   }
+
 #Add the new changes for hsbc301 feature by Developer1
 // reads all data from input.txt
       sourceFile.read(array);
@@ -29,4 +37,5 @@ class Main {
       // writes all data to newFile
       destFile.write(array);
       System.out.println("The input.txt file is copied to newFile.");
+
 }
