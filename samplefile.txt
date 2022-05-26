@@ -6,3 +6,8 @@ personal banking
 new changes in the file
 MutualBonds
 Health Bonds Features
+Jenkins autobuild job demo
+Teamcity
+Bamboo
+BuildBot
+IBM urbanCI
