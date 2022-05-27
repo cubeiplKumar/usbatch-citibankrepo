@@ -11,3 +11,6 @@ Teamcity
 Bamboo
 BuildBot
 IBM urbanCI
+for WEbhook job , event triggered
+DevOps Project WorkShop
+Cloud New Trends 2022
